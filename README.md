@@ -3,3 +3,7 @@ Repositório para Desafio de projeto sobre GIT/GitHub
 
 ## Links úteis
 [Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)
+
+Link com dicas de Git/GitHub
+https://training.github.com/downloads/pt_BR/github-git-cheat-sheet.pdf
+
